@@ -1,0 +1,2 @@
+# tadaProto
+### a Sails application
